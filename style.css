@@ -181,6 +181,19 @@ img {
         text-align: center;
         margin-top: 10px;
         }
+
+        .footer2 {
+            float: bottom;
+            width: 100%;
+            height: 80px;
+            position: absolute;
+            right: 0px;
+            bottom: 0px;
+            left: 0px;
+            background-color: #cccccc;
+            text-align: center;
+            margin-top: 10px;
+            }
         
 
 
