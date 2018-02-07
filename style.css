@@ -89,6 +89,7 @@ header {
     margin-top: 20px;
     margin-bottom: 20px;
     margin-left: 80px;
+    width: 600;
 
 }
 
@@ -162,6 +163,9 @@ img {
     clear: both;
 }
 
+.overlay {
+
+}
 
 
 /* FOOTER */
