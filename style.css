@@ -116,6 +116,7 @@ header {
     padding: 10px;
     background: white;
     margin-right: 30px;
+    margin-bottom: 30px;
 }
 
 img { 
@@ -128,7 +129,7 @@ img {
 }
 
 .column-right {
-    float: left;
+
     width: 270px;
     padding: 10px;
     background: white;
@@ -257,6 +258,7 @@ img {
         
     .column-right {
         width: 600px;
+        margin-left: 10px;
     }
 
     footer {
